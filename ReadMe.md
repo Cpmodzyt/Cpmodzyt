@@ -103,18 +103,6 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cpmodzyt&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
----
-
-## 🏆 Trophies & Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Cpmodzyt&theme=algolia&no-frame=true&column=7&margin-w=10" />
-
 </div>
 
 ---
