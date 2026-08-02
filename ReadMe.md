@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+**Itzmecp**;Frontend+Developer+%7C+Web+Designer+%7C+App+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Hey%2C+I'm+Itzmecp;Web+Developer+%7C+App+Builder+%7C+Designer" alt="Typing SVG" />
 
 ---
 
@@ -10,7 +10,6 @@
 <a href="https://reddit.com/user/itzmecp"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 <a href="mailto:cpmodzyt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Cpmodzyt&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
@@ -150,28 +149,10 @@
 
 ---
 
-## 🔥 Recent Activity
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 "Code is poetry written in logic."
 
-<br/>
-
-![Visitor Count](https://profile-counter.glitch.me/Cpmodzyt/count.svg)
-
-<img src="https://komarev.com/ghpvc/?username=Cpmodzyt&color=blueviolet&style=flat-square&label=TOTAL+PROFILE+VIEWS" />
-
-<br/>
 <br/>
 
 **Thanks for visiting! ⭐ Drop a star if you like my work!**
